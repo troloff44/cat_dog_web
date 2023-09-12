@@ -1,2 +1,2 @@
-# cat_dog_web
- 
+# tinypets
+Minimal JS interface to an image classifer
